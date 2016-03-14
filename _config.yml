@@ -1,25 +1,25 @@
-# This is the default format. 
-# For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
-# permalink: /:categories/:year/:month/:day/:title 
-permalink: /blog/:year/:month/:title.html 
-include: ['.htaccess']
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "CNAME", "Gemfile", "Gemfile.lock"]
-markdown: redcarpet
-highlights: pygments
-lsi: false
-timezone: Asia/Shanghai
-safe: false
-
-JB :
-  ASSET_PATH : http://zhu8.qiniudn.com/assets
-  IMAGE_PATH : http://zhu8.qiniudn.com/images
-# auto: true # deprecated
-
-# Themes are encouraged to use these universal variables 
-# so be sure to set them if your theme uses them.
-#
+markdown: kramdown
+permalink: /:categories/:title.html
 url: 
-title: 神王
-tagline: On The Way to Philistinism...
-about: <a href="http://chenjun.com/"><strong>陈俊</strong></a>个人网站<a href="http://chenjun.com/wang2/"><strong>王小波</strong></a>门下走狗，欢迎<strong>Fork</strong>本站@<a href="https://github.com/Zhu8/zhu8.github.io/fork">Github</a>。
-author: wang-zs
+lsi: false
+pygments: true
+safe: true
+auto: false 
+
+paginate: 10
+paginate_path: "page:num"
+
+# presonal config
+title: Steven Pan's Blog
+description: Steven Pan's Blog, powered by Jekyll...
+feed: http://www.winfirm.cn/atom.xml
+
+author: Steven Pan
+
+seo: 
+  keyword: 
+  description: 
+config:
+  js_dir:
+  img_dir:
+  css_dir:
