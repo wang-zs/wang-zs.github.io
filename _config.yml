@@ -18,15 +18,9 @@ JB :
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-url: http://wang-zs.github.io/
+url: 
 title: 神王
 tagline: On The Way to Philistinism...
 about: <a href="http://chenjun.com/"><strong>陈俊</strong></a>个人网站<a href="http://chenjun.com/wang2/"><strong>王小波</strong></a>门下走狗，欢迎<strong>Fork</strong>本站@<a href="https://github.com/Zhu8/zhu8.github.io/fork">Github</a>。
-author:
-  name: 王柱石
-  email: zhu8.net@gmail.com
-  github: Zhu8
-  twitter: 5CJ
-  facebook: ichenjun
-  googleplus: +ChenJun
-  feedburner : Zhu8/github
+author:wang-zs
+
