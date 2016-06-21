@@ -17,7 +17,6 @@ feed: http://www.winfirm.cn/atom.xml
 
 author: Steven Pan
 markdown: kramdown
-  toc_levels: 1..2..3
 seo: 
   keyword: 
   description: 
