@@ -12,7 +12,6 @@ layout: nil
         <name>Guillermo Garron</name>
     </author>
     <rights>Copyright (c) 2010-2011 Guillermo Garron</rights>
-    {% raw %}
     {% for post in site.posts limit:20 %}
     {% if post.categories contains 'blog1' %}
     <entry>
@@ -24,5 +23,4 @@ layout: nil
     </entry>
     {% endif %}
     {% endfor %}
-    {% endraw %}
 </feed>
