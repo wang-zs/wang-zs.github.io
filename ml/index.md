@@ -22,6 +22,6 @@ services:
 <hr>
 <a href="/ml/tree/index.html">树模型</a>
 <br>
-<a href="/ml/tree/index.html">逻辑斯特模型</a>
+<a href="/ml/logister/index.html">逻辑斯特模型</a>
 {% include home.html %}
 {% include articles.html %}
