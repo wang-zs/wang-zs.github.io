@@ -9,8 +9,8 @@ jumbotron__:
 services: 
   - name: WeiBo
     title: 新浪微博
-    subtitle: Zhu8's Sina Weibo!
-    emblem: <iframe width="100%" height="300" class="share_self"  frameborder="0" scrolling="no" src="http://widget.weibo.com/weiboshow/index.php?language=&width=0&height=300&fansRow=2&ptype=0&speed=0&skin=1&isTitle=0&noborder=1&isWeibo=1&isFans=0&uid=1619722161&verifier=918e85d6&dpc=1"></iframe>
+    subtitle: 
+    emblem: 
     description: 猪八的微博
     details: 
 ---
@@ -18,6 +18,7 @@ services:
 <ul class="nav nav-pills nav-justifiedx">
     <li class="active"><a href="/wang-zs-space/">Home | 首页</a></li>
     <li class=""><a href="/wang-zs-space/archive.html">Archive | 归档</a></li>
+    <li class=""><a href="/wang-zs-space/blog1/index.html">Archive | 机器学习</a></li>
 </ul>
 {% include home.html %}
 {% include articles.html %}
