@@ -16,11 +16,12 @@ services:
 ---
 <!-- Nav tabs -->
 <ul class="nav nav-pills nav-justifiedx">
-    <li class="active"><a href="/wang-zs-space/">Home | 首页</a></li>
+    <li class="active"><a href="index.md">Home | 首页</a></li>
     <li class=""><a href="/wang-zs-space/archive.html">Archive | 归档</a></li>
 </ul>
 <hr>
 <a href="/ml/tree/index.html">树模型</a>
+<br>
 <a href="/ml/tree/index.html">逻辑斯特模型</a>
 {% include home.html %}
 {% include articles.html %}
