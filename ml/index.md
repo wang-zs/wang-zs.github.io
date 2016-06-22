@@ -21,7 +21,9 @@ services:
 </ul>
 <hr>
 <a href="/ml/tree/index.html">树模型</a>
-<br>
+<<br>
 <a href="/ml/logister/index.html">逻辑斯特模型</a>
+{br>
+<a href="/ml/libleaner/index.html">线性回归模型</a>
 {% include home.html %}
 {% include articles.html %}
