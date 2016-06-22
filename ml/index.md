@@ -20,7 +20,7 @@ services:
     <li class=""><a href="/wang-zs-space/archive.html">Archive | 归档</a></li>
 </ul>
 <hr>
-<a href="/ml/tree/index.html">机器学习</a>
-</hr>
+<a href="/ml/tree/index.html">树模型</a>
+<a href="/ml/tree/index.html">逻辑斯特模型</a>
 {% include home.html %}
 {% include articles.html %}
