@@ -18,7 +18,7 @@ services:
 <ul class="nav nav-pills nav-justifiedx">
     <li class="active"><a href="/wang-zs-space/">Home | 首页</a></li>
     <li class=""><a href="/wang-zs-space/archive.html">Archive | 归档</a></li>
-    <li class=""><a href="/wang-zs-space/blog1/index.html">Archive | 机器学习</a></li>
+    <li class=""><a href="/mllearning/index.html">机器学习</a></li>
 </ul>
 {% include home.html %}
 {% include articles.html %}
