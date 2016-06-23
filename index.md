@@ -20,6 +20,7 @@ services:
 </ul>
 <hr>
 <a href="/ml/index.html">机器学习</a>
+<br>
 <a href="/record/index.html">记录</a>
 {% include home.html %}
 {% include articles.html %}
