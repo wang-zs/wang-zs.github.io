@@ -25,7 +25,8 @@ services:
 <a href="/ml/logister/index.html">逻辑斯特模型</a>
 <br>
 <a href="/ml/liblinear/index.html">线性回归模型</a>
-
+<br>
+<a href="/ml/bayes/index.html">贝叶斯学习</a>
 数学基础
 
 微积分
