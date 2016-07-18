@@ -21,7 +21,5 @@ services:
 </ul>
 <hr>
 <a href="/record/tools/index.html">tools record</a>
-<br>
-<a href="/ml/logister/index.html">逻辑斯特模型</a>
 {% include home.html %}
 {% include articles.html %}
