@@ -27,6 +27,9 @@ services:
 <a href="/ml/liblinear/index.html">线性回归模型</a>
 <br>
 <a href="/ml/bayes/index.html">贝叶斯学习</a>
+<br>
+<a href="/ml/pca/index.html">pca</a>
+
 
 数学基础
 
