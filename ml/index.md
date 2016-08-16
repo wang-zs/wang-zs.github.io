@@ -31,6 +31,11 @@ services:
 <a href="/ml/pca/index.html">pca</a>
 
 
+
+交叉验证（一部分样本做训练集，一部分做测试集）的方法 knn
+
+
+
 数学基础
 
 微积分

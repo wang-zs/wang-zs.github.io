@@ -23,3 +23,6 @@ services:
 <a href="/record/tools/index.html">tools record</a>
 {% include home.html %}
 {% include articles.html %}
+
+发明「小海龟编程」的人工智能之父逝世了，世人对他的编程哲学仍未理解 to Read and test
+
