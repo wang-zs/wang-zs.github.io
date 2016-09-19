@@ -19,6 +19,9 @@ description: wang-zs的个人网志
 <br>
 <a href="/ml/pca/index.html">pca</a>
 
+基本定义：
+    回归：预测定量输出；分类：预测定性输出
+
 
 
 交叉验证（一部分样本做训练集，一部分做测试集）的方法 knn
