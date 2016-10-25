@@ -1,18 +1,7 @@
 ---
 layout: default
 title: wang-zs的个人网站
-tagline: 浮生志
 description: wang-zs的个人网志
-jumbotron__:
-    title: ChenJun(Zhu8)的个人网站
-    body: 我也不知道这是干啥的，擦！
-services: 
-  - name: WeiBo
-    title: 新浪微博
-    subtitle: 
-    emblem: 
-    description: 猪八的微博
-    details: 
 ---
 <!-- Nav tabs -->
 <ul class="nav nav-pills nav-justifiedx">
@@ -29,6 +18,9 @@ services:
 <a href="/ml/bayes/index.html">贝叶斯学习</a>
 <br>
 <a href="/ml/pca/index.html">pca</a>
+
+基本定义：
+    回归：预测定量输出；分类：预测定性输出
 
 
 
