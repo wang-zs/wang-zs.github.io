@@ -1,0 +1,16 @@
+---
+layout: default
+title: 机器学习
+category: ml
+---
+{% for post in site.posts %}      
+  {% if post.categories contains 'tools' %}
+	<div class="post">
+		<h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+	</div>
+  {% endif %}
+{% endfor %}
+
+20160901
+1)做事方式
+2)不要给别人提供解决问题的方案
