@@ -1,13 +1,12 @@
 ---
 layout: default
-title: spark
-category: spark
+title: PCA
+category: ml
 ---
 {% for post in site.posts %}      
-  {% if post.categories contains 'spark' %}
+  {% if post.categories contains 'boost' %}
 	<div class="post">
 		<h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
 	</div>
   {% endif %}
 {% endfor %}
-
