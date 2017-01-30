@@ -1,10 +1,10 @@
 ---
-title: "python方法合集"
-description: "tools"
+title: "快速排序"
+description: "sort"
 layout: post
-date: 2016-05-18 03:23:44 +0800
+date: 2017-01-27 03:23:44 +0800
 categories: [tools]
-tags: [tools, jekyll, github]
+tags: [sort, jekyll, github]
 comments: yes
 ---
 
