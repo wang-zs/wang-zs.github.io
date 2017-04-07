@@ -23,5 +23,6 @@ services:
 prml
 
 <a href="/resume/sort/index.html">Sort</a>
+<a href="/resume/java/index.html">Java</a>
 {% include home.html %}
 {% include articles.html %}
