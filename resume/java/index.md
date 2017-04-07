@@ -4,14 +4,16 @@ title: 工具
 category: tools
 ---
 {% for post in site.posts %}      
-  {% if post.tags contains 'sort' %}
+  {% if post.tags contains 'java' %}
 	<div class="post">
 		<h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
 	</div>
   {% endif %}
 {% endfor %}
 
-http://java--hhf.iteye.com/blog/2064926   生产者与消费者模型
+http://java--hhf.iteye.com/blog/2064926   
+
+生产者与消费者模型
 
 Java 提供了三种创建线程的方法：
 通过实现 Runnable 接口；
