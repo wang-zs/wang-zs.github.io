@@ -21,7 +21,6 @@ services:
 </ul>
 
 <hr>
-<a href="/record/read/index.html">read record</a>
-<a href="/record/tools/index.html">tools record</a>
+<a href="/java/basic/index.html">java basic</a>
 {% include home.html %}
 {% include articles.html %}
