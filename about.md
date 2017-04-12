@@ -23,7 +23,7 @@ Android Development Engineer
 Android Development Engineer  
 
 ####Resume
-For more information: <http://www.winfirm.cn/resume/index.html>  
+For more information: <http://www.winfirm.cn/about.html>  
 
 <!-- Blog Comments -->
 <div class="media">
