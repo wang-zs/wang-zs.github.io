@@ -15,11 +15,6 @@ services:
     details: 
 ---
 <!-- Nav tabs -->
-<ul class="nav nav-pills nav-justifiedx">
-    <li class="active"><a href="index.md">Home | 首页</a></li>
-    <li class=""><a href="/wang-zs-space/archive.html">Archive | 归档</a></li>
-</ul>
-
 <hr>
 <a href="/java/basic/index.html">java basic</a>
 {% include home.html %}
