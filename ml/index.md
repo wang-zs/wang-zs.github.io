@@ -18,6 +18,8 @@ description: wang-zs的个人网志
 <a href="/ml/bayes/index.html">贝叶斯学习</a>
 <br>
 <a href="/ml/pca/index.html">pca</a>
+<br>
+<a href="/ml/math/index.html">pca</a>
 
 基本定义：
 
