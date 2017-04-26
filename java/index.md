@@ -15,7 +15,9 @@ services:
     details: 
 ---
 <!-- Nav tabs -->
-<hr>
+<br>
 <a href="/java/basic/index.html">java basic</a>
+<br>
+<a href="/java/scala/index.html">scala</a><br>
 {% include home.html %}
 {% include articles.html %}
