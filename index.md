@@ -24,7 +24,9 @@ services:
 <a href="/record/index.html">记录</a>
 <br>
 <a href="/resume/index.html">面试准备工作</a>
-{<br>
+<br>
 <a href="/java/index.html">Java</a>
-% include home.html %}
+<br>
+{% include home.html %}
+<br>
 {% include articles.html %}
