@@ -22,6 +22,9 @@ services:
 
 <hr>
 <a href="/record/read/index.html">read record</a>
+<br>
 <a href="/record/tools/index.html">tools record</a>
+<br> 
 {% include home.html %}
+<br>
 {% include articles.html %}
