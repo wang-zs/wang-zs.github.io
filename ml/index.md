@@ -19,7 +19,9 @@ description: wang-zs的个人网志
 <br>
 <a href="/ml/pca/index.html">pca</a>
 <br>
-<a href="/ml/math/index.html">pca</a>
+<a href="/ml/math/index.html">math</a>
+<br>
+<a href="/ml/algo/index.html">算法</a>
 
 <a href="http://pengshuang.space/2017/07/23/Parameter-Server-%E5%AD%A6%E4%B9%A0/">参数服务器</a>
 
