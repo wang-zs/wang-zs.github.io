@@ -8,10 +8,8 @@ jumbotron__:
     body: 我也不知道这是干啥的，擦！
 services: 
   - name: WeiBo
-    title: 新浪微博
     subtitle: 
     emblem: 
-    description: 猪八的微博
     details: 
 ---
 <!-- Nav tabs -->
