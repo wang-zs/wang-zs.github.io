@@ -1,0 +1,15 @@
+---
+layout: default
+title: 机器学习
+category: ml
+---
+
+<a href="http://deeplearning.stanford.edu/wiki/index.php/%E5%8F%8D%E5%90%91%E4%BC%A0%E5%AF%BC%E7%AE%97%E6%B3%95">反向传播算法</a>
+
+{% for post in site.posts %}
+  {% if post.categories contains 'mechanism' %}
+	<div class="post">
+		<h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+	</div>
+  {% endif %}
+{% endfor %}
